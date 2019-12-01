@@ -15,7 +15,8 @@ information, attack type, perpetrator, target, casualties, consequences, source 
 
 ## Visualisation of the Database of terrorist attacks worldwide, 1970-2017
 ### Active regions of Top 10 terrorist organizations
-![](media/TOP10-regional activities.png)
+![](media/TOP10-regional%20activities.png)
+
 It can be seen that for several famous groups e.g. Taliban and ISIL, their target regions are
 quite fixed: Taliban launched attacks in Afghanistan and Pakistan, while ISIL attacked mostly in
 Iraq. However, for groups which are not active now and less-famous (e.g. SL, IRA and FMLN)
@@ -24,6 +25,7 @@ figure out the time they launched.
 
 ### Casualties and Property Loss caused by Top 10 terrorists Groups
 ![](media/TOP10-loss.png)
+
 This graph shows the casualties and property loss caused by top 10 terrorist groups.
 The gray part is the total number of attacks which caused major property loss (>1 million
 and <1 billion USD), while the blue and orange part represent the total number of people killed
@@ -34,7 +36,8 @@ mainly launched attacks on military and government’s stuff. Therefore, it migh
 evaluate the property loss.
 
 ### The attack success rate of TOP10 terrorist groups
-![](media/TOP10-success rate.png)
+![](media/TOP10-success%20rate.png)
+
 This is a bar chart that demonstrate the success rate of terrorist attacks of top 10 most
 frequently attack terrorist groups. The top chart shows the number of attacks against top 10
 groups while the bottom chart shows the percentage of attacks against top 10 groups.
@@ -53,7 +56,8 @@ Liberation Front (FMLN), who achieve the highest success rate in terms of percen
 contribute only 2,247 and 3,317 successful number of attacks.
 
 ### Preferred target type of TOP10 terrorist groups
-![](media/TOP10-preferred attack target.png)
+![](media/TOP10-preferred%20attack%20target.png)
+
 The pie chart is divided in 21 parts according to different attack target types. It is obvious
 that military, private citizens or property and police enjoy the leading position. Business,
 government and utilities also occupy noticeable proportion. From this chart, we can draw a
@@ -61,7 +65,8 @@ conclusion: the main target of terrorist attacks is the departments involved in 
 public places with large population flow and relatively weak protection.
 
 ### Preferred attack type of TOP10 terrorist groups
-![](media/TOP10-Preferred attack type.png)
+![](media/TOP10-Preferred%20attack%20type.png)
+
 This bar chart illustrates the popularity of various attack types. Both the height of the bar
 and the gradient of the color represent the number of records, the higher the bar and the darker
 the color represent the attack type is used more. From the figure, we can see that the top 10
@@ -70,7 +75,7 @@ have a certain number that cannot be ignored. Relatively speaking, hijacking and
 assault are seldom adopted, maybe we can reduce attention on these parts.
 
 ### Word cloud of motive of TOP 10 terrorist group
-![](media/TOP10-motive words cloud.png)
+![](media/TOP10-motive%20words%20cloud.png)
 
 This is a Word Cloud that illustrates terrorism activity motivation behind top 10 most
 frequently attack groups from 1970-2017.
